@@ -11,3 +11,10 @@
 ## 記述形式
 
 [サンプル（良い書き方に順次UPDATEしていきます）](https://github.com/takeshit19/knowledge/blob/master/ruby.md)
+
+
+## index
+
+- [Rails](https://github.com/takeshit19/knowledge/blob/master/rails.md)
+- [Ruby](https://github.com/takeshit19/knowledge/blob/master/ruby.md)
+- [Squeel](https://github.com/takeshit19/knowledge/blob/master/squeel.md)
