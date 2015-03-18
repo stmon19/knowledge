@@ -18,3 +18,4 @@
 - [Rails](https://github.com/takeshit19/knowledge/blob/master/rails.md)
 - [Ruby](https://github.com/takeshit19/knowledge/blob/master/ruby.md)
 - [Squeel](https://github.com/takeshit19/knowledge/blob/master/squeel.md)
+- [Database](https://github.com/takeshit19/knowledge/blob/master/database.md)
